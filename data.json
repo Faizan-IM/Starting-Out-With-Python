@@ -1,0 +1,22 @@
+[
+    {
+        "Name": "Faizan",
+        "Age": "31",
+        "City": "Bahawalpur"
+    },
+    {
+        "Name": "Aabid",
+        "Age": "28",
+        "City": "Dera Bakha"
+    },
+    {
+        "Name": "Suleman",
+        "Age": "28",
+        "City": "Lahore"
+    },
+    {
+        "Name": "Sikander",
+        "Age": "23",
+        "City": "Jahania"
+    }
+]
